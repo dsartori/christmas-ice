@@ -1,0 +1,6 @@
+bs4
+requests
+geopandas
+shapely
+matplotlib
+scikit-learn
